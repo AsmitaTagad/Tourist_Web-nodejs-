@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.revv.co.in/blogs/wp-content/uploads/2019/11/self-drive-car-rental-delhi-gurgaon-noida_revv-blog.jpg",
+    "title": "Gate Of India"
+  },
+  {
+    "id": 2,
+    "img": "https://lh5.googleusercontent.com/4osOOO56CdwFkjQBjAkorCf8WPg1IvnNX098xguoOWcyy8C73lU01EMyhLoNzjshL2uDY_hzvUKH7ZbpB_JjrnbTg5rd7OsT-HY1FLeuPluctBSX4zpaIrXet3uUVS5M46w73QKMpG9Z98JBOQ",
+    "title": "Golden temple"
+  },
+  {
+    "id": 3,
+    "img": "https://lh6.googleusercontent.com/LSxGRqig9zODRPlvBSb-YejHAVEmZ3Vp-xqxFNFzG39G052d1Zew4ZZ75u2t6I68NCZFBbJR_DT9llnAqWh1p4fXmpl7NshHIpLAgC05OTJqqIOmAX8C1h5lZQasqounoJAlUhRS9WezaZD0ug",
+    "title": "Himachal Pradesh"
+  },
+  {
+    "id": 4,
+    "img": "https://lh6.googleusercontent.com/wK8UmnMVjDFnkeFvb0Jsxhu_9GDx7kZKyRnF4lFpDlM4wxfgFhYOZJCXpqZ-AyM_rGzHu_5c2cykPb4J2Ft8EIdXomJZBv79tELUGHcxPo82hEVp33aYPvo6twPc9LtbNWOhloNNNYlWXC7T4A",
+    "title": "Kerala"
+  },
+  {
+    "id": 5,
+    "img": "https://lh6.googleusercontent.com/86RKoCUhnMKfwkbwTyNrKslxFqAXGc82MX5WgrkEpZ2zYj9HIUlxoLGWdYMoxfLq7zxB2TCEaWDNDmt4xcR2ZWncHbCg5q7ZeUIBMSx4C-_JNh8tsF-OWlflVOG_K1euIHd7ef8hi4xAfAkTYA",
+    "title": "Odisha"
+  },
+  {
+    "id": 6,
+    "img": "https://lh6.googleusercontent.com/G3oexylLz6WSc_CzFmB-jhmFnSEyUepQqWCyXP4oLOAIzV2tfuH2avFRjSN3FT8xQPn3oyqWNZV9mEkLYw-GUKSbJyK9wPeLLv6SsWwWMJTMgx4KbUIOQ0cNhZuvtW33ahdxVTTN9nkmZCsG4w",
+    "title": "Goa"
+  }
+]
